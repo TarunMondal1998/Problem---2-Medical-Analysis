@@ -26,3 +26,7 @@ an objective index of body weight (kg / m ^ 2) using the ratio of height to weig
 ![Sample Prediction 2](https://github.com/user-attachments/assets/74b25c57-92ab-4e8f-bd61-fa5d76f5d3c9)
 
 ![Sample Prediction 3](https://github.com/user-attachments/assets/efb3565e-4c04-44af-8891-e27f5114eaf7)
+
+## Use cases
+1. Prediction of insurance charges of an applicants
+2. Informed decision-making for insurance companies
