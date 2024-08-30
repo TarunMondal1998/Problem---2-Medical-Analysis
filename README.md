@@ -14,9 +14,15 @@ an objective index of body weight (kg / m ^ 2) using the ratio of height to weig
 7. charges: Individual medical costs billed by health insurance
 
 ## Tableau Dashboard to analyse the data
+![Tableau Dashboard](https://github.com/user-attachments/assets/5df26e91-ec1a-4bdc-b194-94dacb8fb4d2)
 
 ### Machine Learning Models
 1. Multiple Linear Regression
 2. KNN Regressor
 3. Random Forest Regressor
 ## Prediction using a GUI in Python
+![Sample Prediction 1](https://github.com/user-attachments/assets/027fbdae-45d4-4da3-adf9-2838248eba03)
+
+![Sample Prediction 2](https://github.com/user-attachments/assets/74b25c57-92ab-4e8f-bd61-fa5d76f5d3c9)
+
+![Sample Prediction 3](https://github.com/user-attachments/assets/efb3565e-4c04-44af-8891-e27f5114eaf7)
